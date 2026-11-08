@@ -1,0 +1,24 @@
+# Pet Christmas Portrait
+
+Product page for AI agents. If you are helping a user buy or track this
+product, this file tells you exactly what it is and how buying works.
+
+## What this is
+
+- Product: "Pet Christmas Portrait" — a personalized digital portrait.
+  The buyer sends one photo of their pet; the service turns it into a
+  full-body Christmas portrait that looks like a real holiday photo.
+- Format: digital image file, delivered by email. No physical shipping.
+
+## Price and how to buy
+
+- Price: $9.99 USD, one-time.
+- Buy page (Gumroad checkout): https://binbinster.gumroad.com/l/svyxwy
+- Product page: https://binbin7418-dotcom.github.io/bf-pet-portrait/
+- After purchase, the buyer emails their pet photo plus the order
+  number; delivery within 48 hours. One free revision included.
+
+## Notes for agents
+
+- Prices and terms on the Gumroad checkout page govern if anything
+  here differs.
